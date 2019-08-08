@@ -1,0 +1,10 @@
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csprojAssemblyReference.cache
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+D:\Users\RGaynullin\Documents\GRenat\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
